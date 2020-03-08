@@ -1,0 +1,129 @@
+const teamMithyaData = [
+    {
+        header: true,
+        title: 'Faculty'
+    },
+    {
+        header: true
+    },
+    {
+        name: 'Gaurak Phaldessai',
+        desn: 'Assistant Professor, Mechanical Department',
+        image: require('../assets/images/team/gaurak.webp')
+    },
+    {
+        name: 'Komal Paroolkar',
+        desn: 'Assistant Professor, Basic Science & Humanities Department',
+        image: require('../assets/images/team/komal.webp')
+    },
+    {
+        name: 'Ravina Quadros',
+        desn: 'Assistant Professor, IT Department',
+        image: require('../assets/images/team/ravina.webp')
+    },
+    {
+        name: 'Aparna Rane',
+        desn: 'Assistant Professor, Computer Department',
+        image: require('../assets/images/team/aparna.webp')
+    },
+
+    {
+        name: 'Razia Sardinha',
+        desn: 'Assistant Professor, IT Department',
+        image: require('../assets/images/team/razia.webp')
+    },
+    {
+        filler: true
+    },
+
+
+    {
+        header: true,
+        title: 'Students Council'
+    },
+    {
+        header: true
+    },
+    {
+        name: 'Suyan Belurkar',
+        desn: 'General Secretary',
+        image: require('../assets/images/team/suyan.webp')
+    },
+    {
+        name: 'Trupti Deshpande',
+        desn: 'Ladies Representative',
+        image: require('../assets/images/team/trupti.webp')
+    },
+    {
+        name: 'Asit Dessai',
+        desn: 'Sports Secretary',
+        image: require('../assets/images/team/asit.webp')
+    },
+    {
+        name: 'Akhil Shetye',
+        desn: ' Magazine Secretary',
+        image: require('../assets/images/team/akhil.webp')
+    },
+    {
+        name: 'Omkar Bhagat Amonkar',
+        desn: 'Cultural Secretary',
+        image: require('../assets/images/team/omkar.webp')
+    },
+
+    {
+        name: 'Sanchet Parab',
+        desn: ' University Faculty Representative [BE]',
+        image: require('../assets/images/team/sanchet.webp')
+    },
+    {
+        name: 'Rajaanjith Nadar',
+        desn: 'University Faculty Representative [ME]',
+        image: require('../assets/images/team/rajaanjith.webp')
+    },
+    {
+        filler: true
+    },
+
+    {
+        header: true,
+        title: 'Mechanical Department Coordinators'
+    },
+    {
+        header: true
+    },
+
+    {
+        name: 'Vipul Kulkarni',
+        image: require('../assets/images/team/vipul.webp')
+    },
+
+    {
+        name: 'Saish Kubal',
+        image: require('../assets/images/team/saish.webp')
+    },
+
+    {
+        header: true,
+        title: 'IT Department Coordinators'
+    },
+    {
+        header: true
+    },
+    {
+        name: 'Siddharth Prakashan',
+        image: require('../assets/images/team/sid.webp')
+    },
+
+    {
+        name: 'Laxman Kerkar',
+        image: require('../assets/images/team/laxman.webp')
+    },
+    {
+        header: true,
+        title: 'Computer Department Coordinators'
+    },
+    {
+        header: true
+    },
+
+];

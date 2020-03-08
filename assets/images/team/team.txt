@@ -1,0 +1,32 @@
+// Faculty Coordinators
+[gaurak.jpg] Gaurak Phaldessai - Assistant Professor, Mechanical Department
+[komal.jpg] Komal Paroolkar - Assistant Professor, Basic Science & Humanities Department
+[ravina.jpg] Ravina Quadros - Assistant Professor, IT Department
+[aparna.jpg] Aparna Rane - Assistant Professor, Computer Department
+[razia.jpg] Razia Sardinha - Assistant Professor, IT Department
+
+// Student Council
+[suyan.jpg] Suyan Belurkar - General Secretary, Student Council
+[trupti.jpg] Trupti Deshpande - Ladies Representative, Student Council
+[asit.jpg] Asit Dessai - Sports Secretary, Student Council
+[akhil.jpg] Akhil Shetye - Magazine Secretary, Student Council
+[omkar.jpg] Omkar Bhagat Amonkar - Cultural Secretary, Student Council
+[sanchet.jpg] Sanchet Parab - University Faculty Representative [BE], Student Council
+[rajaanjith.jpg] Rajaanjith Nadar - University Faculty Representative [ME], Student Council
+
+
+// Mechanical Department Coordinators
+[vipul.jpg] Vipul Kulkarni - Head Coordinator, Mechanical Department
+[saish.jpg] Saish Kubal - Head Coordinator, Mechanical Department
+
+// IT Department Coordinators
+[sid.jpg] Siddharth Prakashan - Head Coordinator, IT Department
+[laxman.jpg] Laxman Kerkar - Head Coordinator, IT Department
+
+// Computer Department Coordinators
+[saiesh.jpg] Saiesh Nachinolkar - Head Coordinator, Computer Department
+[tyrone.jpg] Tyrone Saldanha - Head Coordinator, Computer Department
+
+// ETC Department Coordinators
+[esther.jpg] Esther Pereira - Head Coordinator, ETC Department
+[bhargavi.jpg] Bhargavi Tilve - Head Coordinator, ETC Department

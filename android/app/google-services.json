@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "360038153489",
+    "firebase_url": "https://mithya2020.firebaseio.com",
+    "project_id": "mithya2020",
+    "storage_bucket": "mithya2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360038153489:android:85627bb6394a00e6a1e0b0",
+        "android_client_info": {
+          "package_name": "com.alphacode.mithya2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360038153489-ufiu3ntmcjvq72nlf08ht53umgc9lu5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcEPtwQYEvThskWmu4EFdAPV9E8SbsiVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360038153489-ufiu3ntmcjvq72nlf08ht53umgc9lu5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
